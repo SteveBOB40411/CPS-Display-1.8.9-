@@ -1,13 +1,8 @@
-# CPS Display [1.8.9 - 1.12.2] & [1.20.x](https://github.com/CPSDisplay/cpsdisplay3)
+# CPS Display [1.8.9]
 
 **1.20+ are in delevopment (alpha) there is only custom text, text color & scaling available**
 
 **CPS Display/CPS Mod** is a forge mod for displaying your Clicks Per Seconds.
-
-## Links
-- [**Discord**](https://discord.gg/d7S4fyRUZR)
-- [Website](https://cpsdisplay.github.io)
-- [Github](https://github.com/CPSDisplay/cpsdisplay)
 
 I am making this mod in my **free time**, so if you want to help me, [**pay me a drink**](https://www.paypal.com/donate/?hosted_button_id=ZZ2T95G9H72YE).
 
@@ -76,11 +71,5 @@ Same as [text color](#text-color), but this time alpha channel is available.
 
 How big is the background. Min: `0`; Max: `99`
 
-## And that's it
-
-There is nothing more, but if you want more, you have **2** solutions:
-- Join the discord server and create a new post about the idea you have in the suggestion channel
-- If you have programming skills, feel free to fork the github project to add what you want and create a pull request for everyone to enjoy
-
-
+## And that's i
 Thanks
